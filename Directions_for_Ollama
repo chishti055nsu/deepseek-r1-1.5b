@@ -1,0 +1,4 @@
+1) I have implemented the deepseek-r1-1.5b in my macbook with ide PyCharm
+2)First open the PyCharm and Download the Ollama models and embedded text model .
+3)After copy paste my code . By this code you can run the models that are in Ollama ,
+4)To run the hugging face models , you need to install libraries for those model .
